@@ -24,6 +24,8 @@ def buzzer(buzzerPinObject,frequency,note_duration,rest_duration):
 
 
 #NoteLength 
+#0.0625 sixtenth 
+#0.125 eighth 
 #0.25 Quarter
 #0.5  Half
 #1	  Whole	
